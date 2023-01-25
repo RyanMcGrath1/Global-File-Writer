@@ -4,4 +4,5 @@
 
 The **system-hook** dependency can be found as a `.jar` file [here](https://github.com/kristian/system-hook/releases), alternatively the `Maven` dependency can be found [here](https://github.com/kristian/system-hook#maven-dependency). 
 
-The program can be hard coded to include the path to the file or, receive a file path as its first argument for ease of use. To use the program click the middle mouse button to begin pasting. Clicking the middle mouse button a second time will terminate the program. The program will work across any application that takes input from the keyboard. This program has been exclusively tested on Windows OS so support for Unix/Linux distributions is not guaranteed. 
+The program can be hard coded to include the path to the file or, receive a file path as its first argument for ease of use. To use the program click the middle mouse button wherever you would like the input stream to begin. Clicking the middle mouse button a second time will terminate the program. The program will work across any application that takes input from the keyboard. This program has been exclusively tested on Windows OS so support for Unix/Linux distributions is not guaranteed. 
+
