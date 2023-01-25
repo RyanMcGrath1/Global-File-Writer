@@ -19,8 +19,6 @@ import static java.lang.System.exit;
 
 public class RawFileWriter {
 
-    //https://github.com/kristian/system-hook
-
     public static String path;
     private static boolean run = true;
     private static int interval;
