@@ -17,7 +17,7 @@ import java.util.Map;
 
 import static java.lang.System.exit;
 
-public class RawFileWriter {
+public class GlobalFileWriter {
 
     public static String path;
     private static boolean run = true;
