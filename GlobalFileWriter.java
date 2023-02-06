@@ -31,7 +31,7 @@ public class GlobalFileWriter {
         */
 
         if (args.length == 0) {
-            path = "C:\\Users\\RyanM\\Documents\\example.txt";
+            path = "C:\\YOUR\\PATH\\HERE\\example.txt";
         } else {
             path = args[0];
         }
