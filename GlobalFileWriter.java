@@ -27,7 +27,6 @@ public class GlobalFileWriter {
         /*
           The amount of time between each message can be altered by changing the value in interval.
           The time is measured in milliseconds
-          The code will break if little to no interval is used
         */
 
         if (args.length == 0) {
