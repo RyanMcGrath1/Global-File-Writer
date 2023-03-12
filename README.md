@@ -30,7 +30,7 @@ $ git clone https://github.com/RyanMcGrath1/Global-File-Writer.git
 
 Upon running the program, the user can pass the file path as the first argument and it will begin. If no argument is passed the program will defer to the hard coded file path. After selecting the file, the user can middle mouse wheel click on the desired application to import the contents of the text file into. The program will automatically write the contents of the file into the selected application. 
 
-The delimeter is set to the `\r` and will separate inputs accordingly. The interval at which contents are written can be easily modified internally. 
+The delimeter is set to `\r` and will separate inputs accordingly. The interval at which contents are written can be easily modified internally. 
 
 ## Contributing
 
